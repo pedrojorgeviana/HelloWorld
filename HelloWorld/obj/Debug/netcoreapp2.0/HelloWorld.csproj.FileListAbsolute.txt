@@ -3,7 +3,6 @@ C:\Users\viana_pj\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\Hel
 C:\Users\viana_pj\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.dev.json
 C:\Users\viana_pj\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.dll
 C:\Users\viana_pj\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.pdb
-C:\Users\viana_pj\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\viana_pj\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\viana_pj\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.AssemblyInfoInputs.cache
 C:\Users\viana_pj\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.AssemblyInfo.cs
